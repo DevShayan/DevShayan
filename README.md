@@ -40,16 +40,12 @@ I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 y
 
 ---
 
-## 📱 Featured Projects
+## 🧩 My Projects
 
-### 🚀 [WallTone](https://github.com/devshayan/walltone)
-> Android app offering a sleek collection of HD wallpapers & ringtones with Firebase integration.
+I love building things that solve real-world problems — from polished UIs to powerful backends.
 
-### 🎓 [ABC Owl](https://github.com/devshayan/abc-owl)
-> Online course platform with referral system, admin payment verification, and user progress tracking.
-
-### 💼 [Knight Bridge Travel](https://github.com/devshayan/knight-bridge-travel)
-> Clean and responsive React website for a UK-based travel agency.
+👉 **[View All My Projects Here](https://www.linkedin.com/in/dev-shayan/details/projects/)**  
+(Covering Flutter apps, MERN stack websites, Firebase tools, and more!)
 
 ---
 
@@ -72,4 +68,4 @@ I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 y
 
 ---
 
-> ⭐️ **“Code is poetry, and I’m writing stories that scale.”**
+> ⭐️ **“Design. Code. Deploy. Repeat.”**
