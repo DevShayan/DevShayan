@@ -44,7 +44,7 @@ I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 y
 
 I love building things that solve real-world problems — from polished UIs to powerful backends.
 
-👉 **[View All My Projects Here](https://www.linkedin.com/in/dev-shayan/details/projects/)**  
+👉 <a href="https://www.linkedin.com/in/dev-shayan/details/projects/" target="_blank"><strong>View All My Projects Here</strong></a> 
 (Covering Flutter apps, MERN stack websites, Firebase tools, and more!)
 
 ---
