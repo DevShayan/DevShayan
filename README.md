@@ -1,4 +1,4 @@
-<picture>
+<picture style="display: flex; width: 70%; margin-bottom: 30px">
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="./assets/svg/text-light.svg" media="(prefers-color-scheme: light)">
   <img src="./assets/svg/text-light.svg" alt="Theme-aware image" />
@@ -7,38 +7,68 @@
 <!-- Content -->
 
 <p align="center">
-  I'm a passionate <strong>Flutter</strong> and <strong>MERN Stack Developer</strong> with a love for building elegant, high-performance apps for both mobile and web. I focus on writing clean, maintainable code and delivering user experiences that feel intuitive and polished.
+  🚀 Flutter Enthusiast • 💻 MERN Stack Developer • 🛠 Full-Stack Engineer
+</p>
+
+<p align="center">
+  <a href="https://devshayan.github.io/website/" target="_blank">🌐 Portfolio</a> • 
+  <a href="mailto:devshayan.dev@gmail.com">📬 Email</a> • 
+  <a href="https://linkedin.com/in/devshayan" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://github.com/devshayan" target="_blank">🐙 GitHub</a>
 </p>
 
 ---
 
-### 🔧 Tech I Use
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+## 🧠 About Me
+
+I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 years of experience building clean, scalable, and high-performance applications across mobile and web platforms.
+
+- 🔧 I build apps using Flutter, ReactJS, Node.js, Firebase, MongoDB
+- 🚀 I specialize in building **cross-platform apps**, **REST APIs**, and **realtime database solutions**
+- 💡 I enjoy crafting smooth UI/UX experiences and solving complex backend challenges
+- 💼 Freelancing and collaborating on startups, MVPs, and production-ready products
+- 🎯 Currently learning: **Vision AI** for mobile & web integrations
+
+---
+
+## 🔨 Tech Stack
+
+| Frontend | Backend | Mobile | Database | Tools |
+|---------|---------|--------|----------|-------|
+| ReactJS, TailwindCSS, HTML, CSS, JS | Node.js, Express.js | Flutter (Dart), Android (Java) | Firebase, MongoDB, SQLite | Git, VS Code, Figma, Postman |
+
+---
+
+## 📱 Featured Projects
+
+### 🚀 [WallTone](https://github.com/devshayan/walltone)
+> Android app offering a sleek collection of HD wallpapers & ringtones with Firebase integration.
+
+### 🎓 [ABC Owl](https://github.com/devshayan/abc-owl)
+> Online course platform with referral system, admin payment verification, and user progress tracking.
+
+### 💼 [Knight Bridge Travel](https://github.com/devshayan/knight-bridge-travel)
+> Clean and responsive React website for a UK-based travel agency.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devshayan&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
 
-### 🚀 What I Love Building
-- 📱 Cross-platform mobile apps with Flutter
-- 🌐 Fast, responsive web apps with React
-- 🔥 Realtime experiences using Firebase
-- 🧠 Smart features using AI & Vision APIs
-- 🛠️ Tools and utilities that solve real-world problems
+## 🤝 Let's Collaborate!
+
+- Want to build an MVP?
+- Need a full-stack mobile/web app?
+- Looking for a freelance partner?
+
+📩 Drop a message or email — I'm open to new opportunities and side projects!
 
 ---
 
-### 📫 Let's Connect
-
-Feel free to reach out if you'd like to collaborate, have an idea, or just want to say hi!
-
-<p>
-  <a href="mailto:devshayan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/devshayan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://devshayan.github.io/website/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white" /></a>
-</p>
+> ⭐️ **“Code is poetry, and I’m writing stories that scale.”**
