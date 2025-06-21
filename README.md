@@ -1,4 +1,4 @@
-<picture style="display: flex; width: 70%; margin-bottom: 30px">
+<picture style="display: flex; width: 50%; margin-bottom: 30px">
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="./assets/svg/text-light.svg" media="(prefers-color-scheme: light)">
   <img src="./assets/svg/text-light.svg" alt="Theme-aware image" />
