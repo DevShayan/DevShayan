@@ -1,4 +1,4 @@
-<picture style="display: flex; width: 500px; margin-bottom: 300px">
+<picture>
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="./assets/svg/text-light.svg" media="(prefers-color-scheme: light)">
   <img src="./assets/svg/text-light.svg" alt="Theme-aware image" />
@@ -6,7 +6,7 @@
 
 <!-- Content -->
 
-<p align="center">
+<p align="center" style="margin-top: 200px">
   🚀 Flutter Enthusiast • 💻 MERN Stack Developer • 🛠 Full-Stack Engineer
 </p>
 
