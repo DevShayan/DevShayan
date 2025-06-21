@@ -5,8 +5,9 @@
 </picture>
 
 <!-- Content -->
-
-<p align="center" style="margin-top: 200px">
+<br>
+<br>
+<p align="center">
   🚀 Flutter Enthusiast • 💻 MERN Stack Developer • 🛠 Full-Stack Engineer
 </p>
 
