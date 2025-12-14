@@ -52,12 +52,12 @@ I love building things that solve real-world problems — from polished UIs to p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devshayan&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&theme=dark&background=000000)](https://git.io/streak-stats" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devshayan&show_icons=true&theme=default" alt="GitHub Stats" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical" alt="Top Languages" height="165" /> -->
+  <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&theme=default&background=000000)](https://git.io/streak-stats" alt="Top Languages" height="165" />
 </p>
 
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+![3D Contributions](./assets/3d-contrib/profile-night-green.svg)
 
 ---
 
