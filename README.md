@@ -36,7 +36,7 @@ I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 y
 
 | Frontend | Backend | Mobile | Database | Tools |
 |---------|---------|--------|----------|-------|
-| ReactJS, TailwindCSS, HTML, CSS, JS | Node.js, Express.js | Flutter (Dart), Android (Java) | Firebase, MongoDB, SQLite | Git, VS Code, Figma, Postman |
+| React.js, Next.js, TailwindCSS, TypeScript | Node.js, Express.js, Docker | Flutter | Firebase, MongoDB, SQLite | Git, VS Code, Figma, Postman |
 
 ---
 
@@ -45,7 +45,7 @@ I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 y
 I love building things that solve real-world problems — from polished UIs to powerful backends.
 
 👉 **[View All My Projects Here](https://www.linkedin.com/in/dev-shayan/details/projects/)**  
-(Covering Flutter apps, MERN stack websites, Firebase tools, and more!)
+(Covering Flutter apps, MERN stack websites, and more!)
 
 ---
 
@@ -54,18 +54,7 @@ I love building things that solve real-world problems — from polished UIs to p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devshayan&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&theme=dark&background=000000)](https://git.io/streak-stats" alt="Top Languages" height="165" />
 </p>
 
----
-
-## 🤝 Let's Collaborate!
-
-- Want to build an MVP?
-- Need a full-stack mobile/web app?
-- Looking for a freelance partner?
-
-📩 Drop a message or email — I'm open to new opportunities and side projects!
-
----
-
-> ⭐️ **“Design. Code. Deploy. Repeat.”**
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
