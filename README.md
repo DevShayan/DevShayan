@@ -1,4 +1,4 @@
-<div style="background-color: #0d1117;">
+<div style="background-color: #000000;">
 
 <picture>
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
