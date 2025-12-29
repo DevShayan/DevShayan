@@ -55,8 +55,8 @@ I love building things that solve real-world problems — from polished UIs to p
   <!-- Streak Dark and Light -->
   <picture>
     <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=0d1117&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" media="(prefers-color-scheme: dark)" width="600">
-    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=0d1117&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" media="(prefers-color-scheme: light)" width="600">
-    <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=0d1117&fire=0d1117&ring=0d1117&currStreakLabel=0d1117&background=ffffff&currStreakLabel=0d1117&stroke=0d1117&currStreakNum=0d1117&sideNums=0d1117&sideLabels=0d1117&dates=0d1117" alt="Theme-aware Streak Widget" width="600" />
+    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=0d1117&fire=0d1117&ring=0d1117&currStreakLabel=0d1117&background=ffffff&currStreakLabel=0d1117&stroke=0d1117&currStreakNum=0d1117&sideNums=0d1117&sideLabels=0d1117&dates=0d1117" media="(prefers-color-scheme: light)" width="600">
+    <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=0d1117&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Theme-aware Streak Widget" width="600" />
   </picture>
   <!-- 3D Dark and Light -->
   <picture>
@@ -65,8 +65,6 @@ I love building things that solve real-world problems — from polished UIs to p
     <img src="./assets/3d-contrib/profile-green-animate.svg" alt="Theme-aware 3D Contributions" width="600" />
   </picture>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
