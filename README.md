@@ -52,12 +52,24 @@ I love building things that solve real-world problems — from polished UIs to p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devshayan&show_icons=true&theme=nightowl" alt="GitHub Stats" height="165" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical" alt="Top Languages" height="165" /> -->
-  <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&theme=nightowl&background=000000)](https://git.io/streak-stats" alt="Top Languages" height="165" />
+  <!-- Streak Dark and Light -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&border=000000&fire=000000&ring=000000&currStreakLabel=000000&background=ffffff" media="(prefers-color-scheme: dark)" width="600">
+    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=000000" media="(prefers-color-scheme: light)" width="600">
+    <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=000000" alt="Theme-aware Streak Widget" width="600" />
+  </picture>
+  <!-- 3D Dark and Light -->
+  <picture>
+    <source srcset="./assets/3d-contrib/profile-night-view.svg" media="(prefers-color-scheme: dark)" width="600">
+    <source srcset="./assets/3d-contrib/profile-green-animate.svg" media="(prefers-color-scheme: light)" width="600">
+    <img src="./assets/3d-contrib/profile-green-animate.svg" alt="Theme-aware 3D Contributions" width="600" />
+  </picture>
 </p>
 
-![3D Contributions](./assets/3d-contrib/profile-night-view.svg)
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical -->
+
+<!-- https://github-readme-stats.vercel.app/api?username=DevShayan&show_icons=true&theme=nightowl -->
+
 
 ---
 
@@ -67,7 +79,7 @@ I love building things that solve real-world problems — from polished UIs to p
 - Need a full-stack mobile/web app?
 - Looking for a freelance partner?
 
-📩 Drop a message or email — I'm open to new opportunities and side projects!
+📩 Email me at shayanahmed393@gmail.com — I'm open to new opportunities and side projects!
 
 ---
 
