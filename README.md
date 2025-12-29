@@ -1,3 +1,5 @@
+<div style="background-color: #0d1117;">
+
 <picture>
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="./assets/svg/text-light.svg" media="(prefers-color-scheme: light)">
@@ -83,4 +85,6 @@ I love building things that solve real-world problems — from polished UIs to p
 
 ---
 
-> ⭐️ **“Design. Code. Deploy. Repeat.”**
+> ⭐️ **"Design. Code. Deploy. Repeat."**
+
+</div>
