@@ -1,4 +1,6 @@
-<div style="background-color: #000000;">
+<table>
+<tr>
+<td style="background-color: #000000;">
 
 <picture>
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
@@ -87,4 +89,6 @@ I love building things that solve real-world problems — from polished UIs to p
 
 > ⭐️ **"Design. Code. Deploy. Repeat."**
 
-</div>
+</td>
+</tr>
+</table>
