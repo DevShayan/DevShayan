@@ -66,6 +66,12 @@ I love building things that solve real-world problems — from polished UIs to p
   </picture>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=devshayan&layout=compact&theme=radical -->
 
 <!-- https://github-readme-stats.vercel.app/api?username=DevShayan&show_icons=true&theme=nightowl -->
