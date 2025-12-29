@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td style="background-color: #000000;">
-
 <picture>
   <source srcset="./assets/svg/text-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="./assets/svg/text-light.svg" media="(prefers-color-scheme: light)">
@@ -58,13 +54,13 @@ I love building things that solve real-world problems — from polished UIs to p
 <p align="center">
   <!-- Streak Dark and Light -->
   <picture>
-    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&border=000000&fire=000000&ring=000000&currStreakLabel=000000&background=ffffff" media="(prefers-color-scheme: dark)" width="600">
-    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=000000" media="(prefers-color-scheme: light)" width="600">
-    <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=000000" alt="Theme-aware Streak Widget" width="600" />
+    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=0d1117&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" media="(prefers-color-scheme: dark)" width="600">
+    <source srcset="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&background=0d1117&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" media="(prefers-color-scheme: light)" width="600">
+    <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=DevShayan&border_radius=0&hide_border=true&border=0d1117&fire=0d1117&ring=0d1117&currStreakLabel=0d1117&background=ffffff&currStreakLabel=0d1117&stroke=0d1117&currStreakNum=0d1117&sideNums=0d1117&sideLabels=0d1117&dates=0d1117" alt="Theme-aware Streak Widget" width="600" />
   </picture>
   <!-- 3D Dark and Light -->
   <picture>
-    <source srcset="./assets/3d-contrib/profile-night-view.svg" media="(prefers-color-scheme: dark)" width="600">
+    <source srcset="./assets/3d-contrib/profile-custom-black.svg" media="(prefers-color-scheme: dark)" width="600">
     <source srcset="./assets/3d-contrib/profile-green-animate.svg" media="(prefers-color-scheme: light)" width="600">
     <img src="./assets/3d-contrib/profile-green-animate.svg" alt="Theme-aware 3D Contributions" width="600" />
   </picture>
@@ -87,8 +83,4 @@ I love building things that solve real-world problems — from polished UIs to p
 
 ---
 
-> ⭐️ **"Design. Code. Deploy. Repeat."**
-
-</td>
-</tr>
-</table>
+> ⭐️ **“Design. Code. Deploy. Repeat.”**
