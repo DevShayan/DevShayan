@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://devshayan.github.io/website/" target="_blank">🌐 Portfolio</a> • 
   <a href="mailto:devshayan.dev@gmail.com">📬 Email</a> • 
-  <a href="https://linkedin.com/in/devshayan" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/dev-shayan" target="_blank">💼 LinkedIn</a> • 
   <a href="https://github.com/devshayan" target="_blank">🐙 GitHub</a>
 </p>
 
