@@ -36,7 +36,7 @@ I'm a passionate **Flutter Developer** and **MERN Stack Engineer** with over 5 y
 
 | Frontend | Backend | Mobile | Database | Tools |
 |---------|---------|--------|----------|-------|
-| React.js, Next.js, TailwindCSS, TypeScript | Node.js, Express.js, Docker | Flutter | Firebase, MongoDB, SQLite | Git, VS Code, Figma, Postman |
+| React.js, Next.js, TailwindCSS, TypeScript | Nest.js, Node.js, Express.js, Docker | Flutter | Firebase, MongoDB, SQLite | Git, VS Code, Figma, Postman |
 
 ---
 
